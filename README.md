@@ -6,3 +6,6 @@ instgram yorum botudur yeni hesap ekliyerek kullana bilirsiniz. tamamen türkçe
 #güvenilir
 
 kullanım 
+git clone https://github.com/Heckerandseher/instgram-yorum-botu-hesaplar
+cd instgram-yorum-botu-hesaplar
+python main.py
